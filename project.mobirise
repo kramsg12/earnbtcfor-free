@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -35,7 +35,7 @@
     "versionPublish": "4.9.7"
   },
   "pages": {
-    "index.html": {
+    "pag1.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -556,7 +556,7 @@
         }
       ]
     },
-    "page1.html": {
+    "index.html": {
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "free btc",
